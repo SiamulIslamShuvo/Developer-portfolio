@@ -33,6 +33,14 @@ nav ul{
     display: flex;
     align-items: center;
 } 
+
+.header{
+    background: #FFF8F3;
+    background-image: url(/images/header_bg.png), url(/images/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+    
+}
 /* Banner*/
 .banner{
     margin: 0 200px;
@@ -40,8 +48,29 @@ nav ul{
     align-items: center;
 }
 .bnr-ttl{
-
+    font-weight: 700;
+    font-size: 85px;
+    margin-bottom: 5px;
 }
 .bnr-sttl{
-    
+    font-weight: 600;
+    font-size: 45px;
+    margin-bottom: 20px;
+
+}
+.bnr-dsc{
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 30px;
+}
+/* ABout  */
+.aboutme{
+
+}
+.sec-ttl{
+
+}
+.sec-dsc{
+
 }
