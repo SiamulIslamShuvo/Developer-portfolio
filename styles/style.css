@@ -19,6 +19,17 @@ section{
     border: 0;
     padding: 18px 35px;
 }
+.cnt-btn{
+    width: 160px;
+    height: 64px;
+    border: 1px solid #FD6E0A;
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+
+
+}
 /* Header and Nav */
 .nav-title{
     font-weight: 800;
